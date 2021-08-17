@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 I was born and raised in Hanoi, Vietnam 🇻🇳
+🌱 I'm a rising CSE junior at [Seoul National University](https://en.snu.ac.kr/), South Korea 👩‍💻🇰🇷
+⚡ I'm interested in the field of Human-Computer Interaction and Data Visualization 
+🌻 My favourite languages are Java and Python
+📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/minhlgdo/) or my [website](https://ichbinloo.com/) plz!
