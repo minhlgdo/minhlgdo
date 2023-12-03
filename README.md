@@ -17,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 I was born and raised in Hanoi, Vietnam 🇻🇳
 - 🌱 I'm a rising CSE senior at [Seoul National University](https://en.snu.ac.kr/), South Korea 👩‍💻🇰🇷
 - ⚡ I'm interested in the field of Data Visualization and Human-Computer Interaction
-- 🌻 My favourite languages are Java and Python
-- 📫 Connect with me via [LinkedIn](https://www.linkedin.com/in/minhlgdo/) plz!
