@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 I was born and raised in Hanoi, Vietnam 🇻🇳
 - 🌱 I'm a recent CSE graduate from [Seoul National University](https://en.snu.ac.kr/), South Korea 👩‍💻🇰🇷
 - ⚡ I'm interested in the field of Data Visualization and Human-Computer Interaction
-- 💬 I can speak English, 한국어, and Vietnamese! :D
+- 💬 I can speak English, 한국어, and tiếng Việt! :D
